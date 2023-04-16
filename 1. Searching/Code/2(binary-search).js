@@ -1,6 +1,6 @@
 let arr=[10,20,30,40,50,60,70,80,90,100]
 
-const target=65;
+const target=60;
 
 function binarySearch(arr,target){
     let start=0;

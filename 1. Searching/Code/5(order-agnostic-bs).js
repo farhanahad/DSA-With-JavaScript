@@ -37,6 +37,6 @@ function orderAgnosticBinarySearch(arr,target){
   }
   //lets test our code
   const arr=[12,7,7,6,5,2,1]
-  const target=3;
+  const target=2;
   console.log(orderAgnosticBinarySearch(arr,target))
   

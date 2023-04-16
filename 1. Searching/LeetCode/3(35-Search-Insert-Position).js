@@ -1,28 +1,16 @@
-var search = function(arr, target) {
-    let start = 0; 
-    let end = arr.length - 1;
-    let mid;  
-    mid = Math.floor((start + end) / 2); 
+var searchInsert = function (nums, target) {
+    let left = 0;
+    let right = nums.length;
 
-    while(start < end) { 
-        if(arr[mid] === target) {
-            return mid; 
-        } 
-        else if(arr[mid] < target) {
-            start = mid + 1; 
-        } 
-        else {
-            end = mid; 
+    while (left < right) {
+        const middle = Math.floor((left + right) / 2);
+
+        if (nums[middle] < target) {
+            left = middle + 1;
+        } else {
+            right = middle;
         }
-
-        mid = Math.floor((start + end) / 2); 
-    } 
-
-    if(arr[mid] < target) {
-        return mid + 1; 
     }
-    return mid; 
+
+    return left;
 };
-
-
-console.log(search([1,3,5,6], 7));
