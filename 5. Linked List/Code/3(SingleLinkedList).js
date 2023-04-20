@@ -9,7 +9,7 @@ class SingleLinkedList{
         let node=new Node(data);
         this.head=this.tail=node;
         this.length=1;
-        console.log(node)
+        console.log(node);
     }
 }
 let list1= new SingleLinkedList(10);
