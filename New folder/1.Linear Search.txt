@@ -1,0 +1,35 @@
+
+https://docs.google.com/document/d/1HW-tkWiKhN4kTSUoGJlkztTXdBxxxvsWEpRnUsbLyls/mobilebasic?usp=gmail
+
+all code
+rejwan vai: https://github.com/mountstack/jsbd-dsa-batch2?fbclid=IwAR2qZ8Pa1RU3lt37gio-jmnTxNUETgXBW4AGYxgu1zu5bVyQNo8XihcOgHM
+https://github.com/minhajul-im/DSA?fbclid=IwAR1847WTxkK3xFjL7KfxIz-CfIdEd_WKkCwP7EJXBaD1l7bkotjwuEyEkqc
+Binary
+278. First Bad Version
+374. Guess Number Higher or Lower
+540. Single Element in a Sorted Array
+
+Two Pointer Algorithm
+
+2. Add Two Number
+4. Median of Two Sorted Arrays
+
+14(189-Rotate-Array).js
+
+1. A "Node" class that encapsulates a node of the linked list.
+2. A "Linkedlist" class that implements the linked list data structure.
+3. Supports adding a node at the beginning of the linked list.
+4. Supports adding a node at the end of the linked list.
+5. Supports adding a node at a specific position of the linked list.
+6. Supports removing a node from the beginning of the linked list.
+7. Supports removing a node from the end of the linked list.
+8. Supports removing a node from a specific position of the linked list.
+9. Supports searching for a node in the linked list.
+10. Supports updating a node at a specific position of the linked list.
+11. Supports concatenating two linked lists.
+12. Supports reversing the linked list.
+13. Find the mid value of a linked list.
+14. Delete a given node of the linked list.
+15. Detect cycle in a linked list.
+
+.

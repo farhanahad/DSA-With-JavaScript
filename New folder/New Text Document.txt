@@ -1,0 +1,12 @@
+Quokka.js
+
+ctrl+shift+p
+
+codesnap
+
+
+
+ doubly ll : https://shamirimtiaz.medium.com/understanding-doubly-linked-list-in-javascript-implementation-and-examples-7e177efcb6bf
+
+
+
